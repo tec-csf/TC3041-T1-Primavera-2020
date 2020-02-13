@@ -7,8 +7,6 @@
 2. *[Poner aquí Nombre y Apellidos del integrante 2]* - *[Poner aquí su Matrícula]* - *[Poner aquí su campus]*
 3. *[Poner aquí Nombre y Apellidos del integrante 3]* - *[Poner aquí su Matrícula]* - *[Poner aquí su campus]*
 4. *[Poner aquí Nombre y Apellidos del integrante 4]* - *[Poner aquí su Matrícula]* - *[Poner aquí su campus]*
-5. *[Poner aquí Nombre y Apellidos del integrante 5]* - *[Poner aquí su Matrícula]* - *[Poner aquí su campus]*
-
 
 ---
 ## 1. Aspectos generales
@@ -35,7 +33,7 @@ El proyecto debe seguir la siguiente estructura de carpetas:
     - README.md			# Archivo con la información general de la tarea (este archivo)
     - frontend			# Carpeta con la solución del frontend (Web app)
     - backend			# Carpeta con la solución del backend en caso de ser necesario (CMS o API)
-    - scripts		    # Carpeta con los scripts necesarios para generar la base de datos, cargar datos y ejecutar las consultas
+    - scripts		        # Carpeta con los scripts necesarios para generar la base de datos, cargar datos y ejecutar las consultas
     - database			# Carpeta con el diagrama Entidad-Relación Extendido y los archivos CSV de datos necesarios para generar la bases de datos
 
 ```
@@ -66,22 +64,22 @@ A continuación aparecen descritos los diferentes elementos que forman parte de 
 
 *[Incluya aquí una explicación de la solución utilizada para el frontend de la tarea. No olvide incluir las ligas o referencias donde se puede encontrar información de los lenguajes de programación, frameworks y librerías utilizadas.]*
 
-#### 3.3.1 Lenguaje de programación
-#### 3.3.2 Framework
-#### 3.3.3 Librerías de funciones o dependencias
+#### 2.3.1 Lenguaje de programación
+#### 2.3.2 Framework
+#### 2.3.3 Librerías de funciones o dependencias
 
 ### 2.4 Backend
 
 *[Incluya aquí una explicación de la solución utilizada para el backend de la tarea. No olvide incluir las ligas o referencias donde se puede encontrar información de los lenguajes de programación, frameworks y librerías utilizadas.]*
 
-#### 3.4.1 Lenguaje de programación
-#### 3.4.2 Framework
-#### 3.4.3 Librerías de funciones o dependencias
+#### 2.4.1 Lenguaje de programación
+#### 2.4.2 Framework
+#### 2.4.3 Librerías de funciones o dependencias
 
 ## 2.5 Pasos a seguir para utilizar la aplicación
 
 *[Incluya aquí una guía paso a paso para poder utilizar la aplicación, desde la clonación del repositorio hasta el despliegue de la solución en una plataforma en la nube.]*
 
-## 4. Referencias
+## 3. Referencias
 
 *[Incluya aquí las referencias a sitios de interés, datasets y cualquier otra información que haya utilizado para realizar la tarea y que le puedan ser de utilidad a otras personas que quieran usarlo como referencia]*
